@@ -34,8 +34,8 @@ These commands are for Windows PowerShell. On macOS or Linux use `source venv/bi
 
 ```powershell
 # 1. Get the code
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/anubhavmat/moneypt.git
+cd moneypt
 
 # 2. Create an isolated Python environment and install the packages
 python -m venv venv
