@@ -1,0 +1,6 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+# Bind to this machine only so nobody else on the network can open the dashboard.
+address = "127.0.0.1"

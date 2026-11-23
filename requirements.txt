@@ -1,0 +1,8 @@
+# Versions this project was tested with. Newer releases may work but have not been checked.
+streamlit==1.67.0
+pandas==3.1.1
+altair==6.3.0
+httpx==0.28.1
+cryptography==50.0.2
+python-dotenv==1.2.4
+anthropic==2.13.0
