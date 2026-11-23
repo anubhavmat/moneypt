@@ -105,4 +105,16 @@ To back up, copy `finance.db` somewhere private.
 
 ## Licence
 
-See `LICENSE`. This project is provided as is, with no warranty.
+MoneyPT is released under the **[PolyForm Noncommercial License 1.0.0](LICENSE)**. This is a *source-available* licence,
+not an open source one.
+
+In plain words (the full text in `LICENSE` is the only thing that binds):
+
+- **You may** run it, read it and change it for any noncommercial purpose. Managing your own money at home is a good example.
+- **You may** share copies, as long as the person you give it to also gets the licence terms and the copyright notice.
+- **You may not** use it for commercial purposes, such as selling it or using it to run a paid service.
+- Use at work for a company's business is a commercial purpose, so it is not covered.
+
+If you want to use it commercially, contact the author through GitHub.
+
+This is not legal advice. The software is provided as is, with no warranty. It is not financial advice.
